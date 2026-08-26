@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+sentence-transformers
+open_clip_torch
+torch
+pillow
+scikit-learn
+numpy
+python-dotenv
